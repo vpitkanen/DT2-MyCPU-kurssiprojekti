@@ -11,6 +11,7 @@ Repository sisältää eri moduulien suunnittelutiedostot, jotka muodostavat yks
 - **`muxm.sv`** – multiplekseri, valitsee ohjelmalaskurin tai väylän muistiosoitteen lähteeksi  
 - **`muxd.sv`** – multiplekseri, valitsee kirjoitusdatan lähteen  
 - **`muxb.sv`** – multiplekseri, valitsee väylän `bbus` lähteen
+- **`mycpu.sv`** – Ei sisällä toiminnallista koodia, vaan yhdistää moduulit kokonaisuudeksi
 ---
 ### Huomio
 Tämä repository sisältää vain moduulien suunnittelutiedostot kurssiprojektista. Kurssin muut tiedostot ja testausympäristöt eivät sisälly tähän.
